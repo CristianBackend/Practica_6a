@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/SSP/Desktop/Materias C2/Electiva2Practica6/vagrant-apache-setup/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/SSP/Desktop/Materias C2/Electiva2Practica6/vagrant-apache-setup","disabled":false,"__vagrantfile":true}}}
